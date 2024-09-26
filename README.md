@@ -17,23 +17,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+      <a href="https://www.youtube.com/@ZeusOp21" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ZeusOp21&subtitle=@ZeusOp21&size=square" alt="Zeus Op">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/tejasbari_21/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftejasbari_21%2F&subtitle=@tejasbari_21&size=square" alt="TEJAS BARI">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
-      </a>
-    </td>
+    
+   
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/TejasBari21" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTejasBari21&subtitle=TejasBari21&size=square" alt="TEJAS BARI">
   </a>
 </td>
 
