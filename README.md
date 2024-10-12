@@ -83,35 +83,30 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
+        <a href="https://github.com/TEJASBARI/fast-gemini-nano">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
+        <a href="https://github.com/TEJASBARI/Weather-3d-ai-app.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
+        <a href="https://github.com/TEJASBARI/moviedjangoai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
+        <a href="https://github.com/TEJASBARI/speech-to-text.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
-</a>
 
 
 
