@@ -51,32 +51,32 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?userTEJASBARII&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=TEJASBARI's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASBARI&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=TEJASBARI&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="TEJASBARI's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="TEJASBARI's Profile Details">
 
 ### Top Repositories
 <div align="center">
@@ -84,12 +84,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td>
         <a href="https://github.com/TEJASBARI/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/TEJASBARI/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -101,7 +101,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td>
         <a href="https://github.com/TEJASBARI/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -116,9 +116,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/TEJASBARI?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/TEJASBARI?theme=dark" alt="TEJASBARI GitHub Stats">
 </details>
 
 <br>
@@ -131,11 +131,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for TEJASBARI&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#TEJASBARI/TEJASBARI&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TEJASBARI/TEJASBARI&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -144,7 +144,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=TEJASBARI&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -159,7 +159,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/tejasbari__21/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -219,12 +219,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
-</p>
-
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
@@ -618,8 +612,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:baritejas21@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=baritejas21@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -635,14 +629,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
-<h3>
-<div align="center">
-  
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
-
-</div>
-</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
