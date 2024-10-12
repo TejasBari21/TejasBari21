@@ -603,7 +603,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
   <a href="https://wa.me/9272991171" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9272991171&size=square" alt="India-+91-927-299-1171" style="margin: 10px;">
   </a>
 </td>
 
