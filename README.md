@@ -90,7 +90,7 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
     <tr>
       <td>
         <a href="https://github.com/TEJASBARI/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
