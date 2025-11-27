@@ -110,7 +110,7 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/TEJASBARI?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/TEJASBARI?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="TEJASBARI's GitHub Stats">
 
   <img src="https://github-readme-bento.vercel.app/stats/TEJASBARI?theme=dark" alt="TEJASBARI GitHub Stats">
 </details>
