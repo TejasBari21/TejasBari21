@@ -221,51 +221,81 @@ Aspiring Data Analyst with a strong passion for transforming data into meaningfu
 
 
 <div align="center"> 
-  <table style="background-color: #0d1117; color: white; border-collapse: collapse; border-radius: 15px; overflow: hidden;"> 
+  <table style="
+    background-color: #0d1117;
+    color: white;
+    border-collapse: collapse;
+    border-radius: 12px;
+    overflow: hidden;
+  "> 
     <thead>
       <tr>
         <th colspan="5" align="center" 
-            style="padding: 12px; font-size: 20px; border: 1px solid #30363d;">
+            style="
+              padding: 10px;
+              font-size: 20px;
+              border: 1px solid #30363d;
+            ">
           Database & Visualization
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <td align="center" style="
+          padding: 10px 14px;
+          border: 1px solid #30363d;
+        ">
           <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
             <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" 
                  alt="Excel" width="55" height="55"/>
           </a>
-          <br><br>Excel
+          <br>
+          <span style="font-size: 16px;">Excel</span>
         </td>
-        <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <td align="center" style="
+          padding: 10px 14px;
+          border: 1px solid #30363d;
+        ">
           <a href="https://powerbi.microsoft.com/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
                  alt="Power BI" width="55" height="55"/>
           </a>
-          <br><br>Power BI
+          <br>
+          <span style="font-size: 16px;">Power BI</span>
         </td>
-        <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <td align="center" style="
+          padding: 10px 14px;
+          border: 1px solid #30363d;
+        ">
           <a href="https://www.mysql.com/" target="_blank">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" 
                  alt="MySQL" width="55" height="55"/>
           </a>
-          <br><br>MySQL
+          <br>
+          <span style="font-size: 16px;">MySQL</span>
         </td>
-        <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <td align="center" style="
+          padding: 10px 14px;
+          border: 1px solid #30363d;
+        ">
           <a href="https://www.mongodb.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=mongodb" 
                  alt="MongoDB" width="55" height="55"/>
           </a>
-          <br><br>MongoDB
+          <br>
+          <span style="font-size: 16px;">MongoDB</span>
         </td>
-        <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <td align="center" style="
+          padding: 10px 14px;
+          border: 1px solid #30363d;
+        ">
           <a href="https://www.tableau.com/" target="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" 
                  alt="Data Visualization" width="55" height="55"/>
           </a>
-          <br><br>Data Visualization
+          <br>
+          <span style="font-size: 16px;">Data Visualization</span>
         </td>
       </tr>
     </tbody>
