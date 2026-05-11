@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm TEJAS BARI</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Web+Developer;Frontend+Developer;UI/UX+Designer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Data+Analyst;Web+Developer;Frontend+Developer;UI/UX+Designer;" alt="Typing SVG" />
 
 </p>
 
@@ -37,7 +37,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Software Engineer and Frontend Developer, I specialize in Frontend, AI/ML & Data Science and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Aspiring Data Analyst with a strong passion for transforming data into meaningful insights and actionable solutions. Skilled in Data Analytics, Machine Learning, Data Visualization, and business intelligence tools, I enjoy working with data to uncover trends, solve problems, and support smarter decision-making. Proficient in Python, SQL, Excel, Power BI, and statistical analysis, I am continuously learning and exploring new technologies to grow in the field of data analytics and AI.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
@@ -46,90 +46,12 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEJASBARI&custom_title=TEJASBARI's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASBARI&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TEJASBARI&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="TEJASBARI's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="TEJASBARI's Profile Details">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/TEJASBARI/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TEJASBARI/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/TEJASBARI/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TEJASBARI/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/TEJASBARI?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="TEJASBARI's GitHub Stats">
-
-  <img src="https://github-readme-bento.vercel.app/stats/TEJASBARI?theme=dark" alt="TEJASBARI GitHub Stats">
-</details>
-
-<br>
-
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for TEJASBARI&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#TEJASBARI/TEJASBARI&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TEJASBARI/TEJASBARI&type=Date&theme=dark" />
-  </a>
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=TEJASBARI&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
 
 
 
