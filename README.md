@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm TEJAS BARI</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Web+Developer;Frontend+Developer;UI/UX+Designer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Web+Developer;Frontend+Developer;UI/UX+Designer;" alt="Typing SVG" />
 
 </p>
 
@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@ZeusOp21" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ZeusOp21&subtitle=@ZeusOp21&size=square" alt="Zeus Op">
+      <a href="https://www.linkedin.com/in/tejas-bari-6a39202ab/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftejas-bari-6a39202ab%2F&subtitle=Tejas%20Bari&size=square" alt="Tejas Bari LinkedIn">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/tejasbari_21/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftejasbari_21%2F&subtitle=@tejasbari_21&size=square" alt="TEJAS BARI">
+      <a href="https://www.linkedin.com/in/tejas-bari-6a39202ab/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftejas-bari-6a39202ab%2F&subtitle=tejas-bari-6a39202ab&size=square" alt="TEJAS BARI">
     
    
    <td align="center">
