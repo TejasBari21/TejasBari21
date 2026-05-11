@@ -290,13 +290,12 @@ Aspiring Data Analyst with a strong passion for transforming data into meaningfu
           padding: 10px 14px;
           border: 1px solid #30363d;
         ">
-       <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400&auto=format&fit=crop" 
-            alt="Data Visualization" 
-            width="70"
-            style="border-radius: 8px;"/>
-        <br>
-        <span style="font-size: 16px;">Data Visualization</span>
-      </td>
+            <img src="https://www.rishabhsoft.com/blog/data-visualization-benefits" 
+                 alt="Data Visualization" width="55" height="55"/>
+          </a>
+          <br>
+          <span style="font-size: 16px;">Data Visualization</span>
+        </td>
       </tr>
     </tbody>
 
