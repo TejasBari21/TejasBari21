@@ -224,33 +224,6 @@ Aspiring Data Analyst with a strong passion for transforming data into meaningfu
       <th colspan="4" align="center" style="color: white;">Database</th>
     </tr>
   </thead>
-  <table>
-  <tr>
-    <th colspan="3">Data Visualization</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70" height="70" alt="Excel"/>
-      </a>
-      <br>Excel
-    </td>
-
-    <td align="center">
-      <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" height="70" alt="Power BI"/>
-      </a>
-      <br>Power BI
-    </td>
-
-    <td align="center">
-      <a href="https://www.tableau.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70" height="70" alt="Tableau"/>
-      </a>
-      <br>Tableau
-    </td>
-  </tr>
-</table>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
