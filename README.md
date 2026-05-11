@@ -286,16 +286,6 @@ Aspiring Data Analyst with a strong passion for transforming data into meaningfu
           <br>
           <span style="font-size: 16px;">MongoDB</span>
         </td>
-        <td align="center" style="
-          padding: 10px 14px;
-          border: 1px solid #30363d;
-        ">
-            <img src=""C:\Users\barit\Pictures\Screenshots\data visualize.jpg"" 
-                 alt="Data Visualization" width="55" height="55"/>
-          </a>
-          <br>
-          <span style="font-size: 16px;">Data Visualization</span>
-        </td>
       </tr>
     </tbody>
 
